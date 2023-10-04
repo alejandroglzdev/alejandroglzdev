@@ -13,6 +13,8 @@
 - 🌱 I’m currently learning Swift
 - 📚 I have a HNC in Multiplatform Software Development from the IES Nicolau Copernic
 - 🌟 Main languages: Kotlin, Java
+- 📜 My resume: [Resume in English](https://drive.google.com/file/d/1pEYE4Pn2dyFkZZUv8xuFf1kTwku-bypa/view?usp=sharing), [Resume in Spanish](https://drive.google.com/file/d/19Nbo_pkAzFJJe6cHNGazpmI1YzTPreKy/view?usp=sharing)
+
 
 </br>
 
