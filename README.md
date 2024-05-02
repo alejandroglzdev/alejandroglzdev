@@ -12,7 +12,7 @@
 - ❤️ Swift and Kotlin enthusiast 
 - 📚 I have a HNC in Multiplatform Software Development from the IES Nicolau Copernic
 - 🌟 Main languages: Swift, Kotlin
-- 📜 My resume: [Resume in English](https://drive.google.com/file/d/1pEYE4Pn2dyFkZZUv8xuFf1kTwku-bypa/view?usp=sharing), [Resume in Spanish](https://drive.google.com/file/d/19Nbo_pkAzFJJe6cHNGazpmI1YzTPreKy/view?usp=sharing)
+- 📜 My resume: [Resume in English](https://drive.google.com/file/d/1pEYE4Pn2dyFkZZUv8xuFf1kTwku-bypa/view?usp=sharing), [Resume in Spanish](https://drive.google.com/file/d/1K741uIVWEN2DJsKkySf1T-J66JmHIzn_/view?usp=sharing)
 
 
 </br>
